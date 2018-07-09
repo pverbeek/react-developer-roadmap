@@ -28,6 +28,10 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * Make some AJAX (XHR) calls
         * Learn new features (ECMA Script 6+)
         * Additionally, get familiar with jQuery library
+    4. Accessibility
+        * Learn the basics of accessible applications
+        * Learn about WAI-ARIA
+        * Test your page from the previous steps using a screen reader
 2. General Development Skills
     1. Learn GIT, create a few repositories on GitHub, share your code with other people
     2. Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
